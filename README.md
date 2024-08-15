@@ -1,11 +1,14 @@
 <h1 align="center">Hey Everyone 👋, I'm Rivin Jayawardhana</h1>
 <div align="center"> <img src=""> </div>
 <h3 align="center">A passionate Data Science  Undergraduate From Sri lanka. I work in Corporate IT Sector and Im freelancer at fiver https://www.fiverr.com/rivinjaya?up_rollout=true</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=it22061652&label=Profile%20views&color=0e75b6&style=flat" alt="it22061652" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
+
 
 - 🔭 I’m currently working on [NDB Securities as an undergraduate intern| Full stack Data Science developer]([https://www.youtube.com/watch?v=5CbQyB0dcCA&list=PLAdTNzDIZj_8Gotv6qZoyxOiwu0bdhW-E&pp=gAQBiAQB](https://www.linkedin.com/company/ndb-securities-pvt-limited/mycompany/))
+
+
+
 
 - 🌱 I’m currently learning Machine Learning and Data Science consepts
 
@@ -31,5 +34,6 @@
 
 <p></p>
 
-### 🔝 Top Contributed Repo
+### 🔝 Github trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it22061652" alt="it22061652" /></a> </p>
 
