@@ -35,5 +35,5 @@
 <p></p>
 
 ### 🔝 Github trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it22061652" alt="it22061652" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RivinJayawardhana" alt="RivinJayawardhana" /></a> </p>
 
