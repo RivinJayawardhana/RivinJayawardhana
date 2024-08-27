@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning Machine Learning and Data Science consepts
 
-- 👨‍💻 All of my projects are available at (https://github.com/IT22061652?tab=repositories)
+- 👨‍💻 All of my projects are available at (https://github.com/RivinJayawardhana?tab=repositories)
 
 - 📫 How to reach me 
 
