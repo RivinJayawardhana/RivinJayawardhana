@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [NDB Securities as an undergraduate intern| Full stack Data Science developer]([https://www.youtube.com/watch?v=5CbQyB0dcCA&list=PLAdTNzDIZj_8Gotv6qZoyxOiwu0bdhW-E&pp=gAQBiAQB](https://www.linkedin.com/company/ndb-securities-pvt-limited/mycompany/))
+
 
 
 
