@@ -11,7 +11,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Computing**
 
 - 📫 How to reach me **pesara.us@gmail.com**
   
