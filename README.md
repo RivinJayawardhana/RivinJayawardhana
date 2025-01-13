@@ -11,8 +11,6 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 💬 Ask me about **Computing**
-
 - 📫 How to reach me **pesara.us@gmail.com**
   
 
@@ -38,10 +36,17 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=RivinJayawardhana&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=dark&hide_border=false" /> 
+
+ 
 </td>
 <td width="50%" align="center">
 
-
+ <p>while(!Success){ <br>tryagain();<br>if(tried)<br>break;<br>}</p>
+ <p>tryagain();</p>
+ <p>if(tried)</p>
+ <p>break;</p>
+ <p>while(!Success){ <br>tryagain();<br>if(tried)<br>break;<br>}</p>
+ 
 
 
   </td>
