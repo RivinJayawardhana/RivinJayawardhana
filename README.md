@@ -41,11 +41,11 @@
 </td>
 <td width="50%" align="center">
 
- <p>while(!Success){ <br>tryagain();<br>if(tried)<br>break;<br>}</p>
+ <p>while(!Success){ </p>
  <p>tryagain();</p>
- <p>if(tried)</p>
+ <p>if(tired)</p>
  <p>break;</p>
- <p>while(!Success){ <br>tryagain();<br>if(tried)<br>break;<br>}</p>
+ <p>}</p>
  
 
 
