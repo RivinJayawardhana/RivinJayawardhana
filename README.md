@@ -7,14 +7,6 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning ML , Data Engineering and AI
-
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
-
-- 📫 How to reach me **pesara.us@gmail.com**
-  
-
-
 </td>
 <td width="50%" align="center">
 
